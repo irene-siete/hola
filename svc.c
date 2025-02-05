@@ -39,8 +39,8 @@ typedef DWORD(WINAPI* NtWaitForSingleObject)(
 int main() {
 
 	char* Domain = "offence.local";
-	char* Hostname = "bonta";
-	char* Username = "John";
+	char* Hostname = "irene";
+	char* Username = "irene";
 
 	char domainBuffer[256];
 	DWORD domainBufferSize = sizeof(domainBuffer);
